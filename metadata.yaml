@@ -1,0 +1,51 @@
+_repo: Le-chat-de-misere-Idees-et-images_52565
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Gourmont, Rémy de
+    - Gourmont, Remi de
+    - Coffe, M.
+    - L'Ymagier
+    - Drexelius, J.
+    - Gourmont, Remye
+    - De Gourmont, Remy
+    - Le Danois, N.
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_bookshelf: FR Chroniques
+gutenberg_issued: '2016-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52565'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French essays'
+- GITenberg
+tableOfContents: Le chat de misère -- Cheveux et chapeaux -- La machine à signer --
+  Après l'éclipse -- Election académique -- Music-hall -- A la nage -- Le pourpoint
+  -- Le garde-champêtre -- Le charmeur d'oiseaux -- L'héritage de Dickens -- La danseuse
+  nue -- Le coup de grace -- Le fleuve de lait -- Le tympanon -- Les Houyhnhnms --
+  Cousins de Normandie -- Le bonheur en prison -- Aux Gobelins -- La navette -- La
+  raviveuse de perles -- Vieux livres -- Les Nécrophores -- La ligne et la poche --
+  L'expiation -- Le pied de mouton -- Au soleil -- Histoire de fantômes -- Danse et
+  danseuses -- Funérailles canines -- Le lauréat -- Les suicides -- L'âme du bibliophile
+  -- Le pantalon intégral -- La vertu -- Mœurs de Paris -- Saisons -- La foire aux
+  jouets -- La force du nombre -- Les cigarettes -- Après la pluie -- La suicidée
+  -- Jeux d'enfants -- Jardin impressionniste -- Le sort des livres -- «Les damnés»
+  de Rechberg -- L'après-midi d'un faune -- L'avis de Rodin -- Les amis du museum
+  -- Le pendu -- Les origines -- Une enquête originale -- Les pingouins -- Le taureau
+  de Saint-Malo -- Le charme des arbres -- La forêt -- L'écureuil -- Le phonographe.
+title: 'Le chat de misère: Idées et images'
+url: http://www.gutenberg.org/ebooks/52565
